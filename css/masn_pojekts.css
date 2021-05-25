@@ -1,0 +1,3580 @@
+/* SIGN */
+{
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Logi */
+
+position: absolute;
+width: 389px;
+height: 95px;
+left: 1531px;
+top: 24px;
+
+filter: blur(7px);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 165.99px;
+height: 95px;
+left: 1738.01px;
+top: 24px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 165.99px;
+height: 95px;
+left: 1543px;
+top: 24px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* Login In */
+
+position: absolute;
+width: 191px;
+height: 80px;
+left: 1729px;
+top: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Sign up */
+
+position: absolute;
+width: 191px;
+height: 80px;
+left: 1531px;
+top: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 953px;
+left: 1918px;
+top: 137px;
+
+background: rgba(223, 139, 189, 0.75);
+filter: blur(7px);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* rezervcija */
+
+position: absolute;
+width: 437px;
+height: 136px;
+left: 730px;
+top: 491px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 437px;
+height: 109px;
+left: 730px;
+top: 505px;
+
+background: #C4C4C4;
+border-radius: 70px;
+
+
+/* Rezervacija */
+
+position: absolute;
+width: 379px;
+height: 136px;
+left: 759px;
+top: 491px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* We will help you find your hotel! */
+
+position: absolute;
+width: 1920px;
+height: 152px;
+left: 0px;
+top: 303px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 76px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+opacity: 0.6;
+filter: blur(7px);
+
+
+/* Radisson */
+
+position: absolute;
+width: 158px;
+height: 44px;
+left: 1477px;
+top: 1015px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+filter: blur(7px);
+
+
+/* Miracle Resort Hotel Turcijā */
+
+position: absolute;
+width: 529px;
+height: 62px;
+left: 684px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+filter: blur(7px);
+
+
+/* image 3 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 1292px;
+top: 663px;
+
+background: url(image.png);
+filter: blur(7px);
+border-radius: 50px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+right: 1316px;
+top: 663px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: blur(7px);
+border-radius: 50px;
+
+
+/* image 5 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 684px;
+top: 663px;
+
+background: url(image.png);
+filter: blur(7px);
+border-radius: 50px;
+
+
+/* Mardan palace Turcijā */
+
+position: absolute;
+width: 188px;
+height: 58px;
+left: 245px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+filter: blur(7px);
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 17px;
+top: 12px;
+
+filter: blur(7px);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 17px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 17px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* sign up квадрат */
+
+position: absolute;
+width: 856px;
+height: 673px;
+left: 530px;
+top: 283px;
+
+
+
+/* квардар для sign */
+
+position: absolute;
+width: 856px;
+height: 673px;
+left: 530px;
+top: 283px;
+
+background: rgba(72, 98, 189, 0.88);
+backdrop-filter: blur(18px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 30px;
+
+
+/* пороль */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 642px;
+top: 652px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 9px;
+
+
+/* квадрат имени */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 645px;
+top: 360px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 10px;
+
+
+/* почта */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 642px;
+top: 506px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 10px;
+
+
+/* кнопка sign */
+
+position: absolute;
+width: 386px;
+height: 70px;
+left: 765px;
+top: 798px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 10px;
+
+
+/* Sign up */
+
+position: absolute;
+width: 386px;
+height: 70px;
+left: 765px;
+top: 798px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* E-mail */
+
+position: absolute;
+width: 630px;
+height: 108px;
+left: 645px;
+top: 511px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Password */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 642px;
+top: 652px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Name and Surname */
+
+position: absolute;
+width: 625px;
+height: 56px;
+left: 650px;
+top: 388px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.74%;
+right: 67.66%;
+top: 27.59%;
+bottom: 67.78%;
+
+background: #000000;
+
+
+/* log */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* logi */
+
+position: absolute;
+width: 389px;
+height: 96.35px;
+left: 1531px;
+top: 15px;
+
+filter: blur(7px);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 165.99px;
+height: 96.35px;
+left: 1738.01px;
+top: 15px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 165.99px;
+height: 96.35px;
+left: 1543px;
+top: 15px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* Login In */
+
+position: absolute;
+width: 191px;
+height: 81.14px;
+left: 1729px;
+top: 21.09px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Sign up */
+
+position: absolute;
+width: 191px;
+height: 81.14px;
+left: 1531px;
+top: 21.09px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 21px;
+top: 9px;
+
+filter: blur(7px);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 21px;
+top: 9px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 21px;
+top: 9px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* background */
+
+position: absolute;
+width: 1920px;
+height: 945.24px;
+left: 1920px;
+top: 135px;
+
+background: rgba(223, 139, 189, 0.75);
+filter: blur(7px);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Radisson */
+
+position: absolute;
+width: 158px;
+height: 44px;
+left: 1477px;
+top: 1015px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+filter: blur(7px);
+
+
+/* Miracle Resort Hotel Turcijā */
+
+position: absolute;
+width: 529px;
+height: 62px;
+left: 684px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+filter: blur(7px);
+
+
+/* image 3 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 1292px;
+top: 663px;
+
+background: url(image.png);
+filter: blur(7px);
+border-radius: 50px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+right: 1316px;
+top: 663px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: blur(7px);
+border-radius: 50px;
+
+
+/* We will help you find your hotel! */
+
+position: absolute;
+width: 1920px;
+height: 152px;
+left: 0px;
+top: 303px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 76px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+opacity: 0.6;
+filter: blur(7px);
+
+
+/* rezervcija */
+
+position: absolute;
+width: 437px;
+height: 136px;
+left: 730px;
+top: 491px;
+
+filter: blur(7px);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 437px;
+height: 109px;
+left: 730px;
+top: 505px;
+
+background: #C4C4C4;
+border-radius: 70px;
+
+
+/* Rezervacija */
+
+position: absolute;
+width: 379px;
+height: 136px;
+left: 759px;
+top: 491px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 684px;
+top: 663px;
+
+background: url(image.png);
+filter: blur(7px);
+border-radius: 50px;
+
+
+/* Mardan palace Turcijā */
+
+position: absolute;
+width: 188px;
+height: 58px;
+left: 245px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+filter: blur(7px);
+
+
+/* login квадрат */
+
+position: absolute;
+width: 856px;
+height: 499px;
+left: 520px;
+top: 291px;
+
+
+
+/* квардар для login */
+
+position: absolute;
+width: 856px;
+height: 499px;
+left: 520px;
+top: 291px;
+
+background: rgba(72, 98, 189, 0.88);
+backdrop-filter: blur(18px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 30px;
+
+
+/* пороль */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 630px;
+top: 486px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 9px;
+
+
+/* почта */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 630px;
+top: 340px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 10px;
+
+
+/* кнопка login */
+
+position: absolute;
+width: 386px;
+height: 70px;
+left: 753px;
+top: 632px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 10px;
+
+
+/* Log in */
+
+position: absolute;
+width: 386px;
+height: 70px;
+left: 753px;
+top: 632px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* E-mail */
+
+position: absolute;
+width: 630px;
+height: 108px;
+left: 633px;
+top: 345px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Password */
+
+position: absolute;
+width: 633px;
+height: 113px;
+left: 630px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* or Sign up */
+
+position: absolute;
+width: 199px;
+height: 51px;
+left: 847px;
+top: 706px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 42px;
+line-height: 51px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.85%;
+right: 68.54%;
+top: 29.63%;
+bottom: 65.74%;
+
+background: #000000;
+
+
+/* главная с входом */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 932px;
+left: 1920px;
+top: 148px;
+
+background: rgba(223, 139, 189, 0.75);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Mardan palace Turcijā */
+
+position: absolute;
+width: 188px;
+height: 58px;
+left: 245px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Miracle Resort Hotel Turcijā */
+
+position: absolute;
+width: 529px;
+height: 62px;
+left: 684px;
+top: 1006px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Radisson Latvijā */
+
+position: absolute;
+width: 459px;
+height: 70px;
+left: 1327px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 4 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+right: 1316px;
+top: 663px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 1292px;
+top: 663px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 684px;
+top: 663px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* rezervcija */
+
+position: absolute;
+width: 437px;
+height: 136px;
+left: 730px;
+top: 491px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 437px;
+height: 109px;
+left: 730px;
+top: 505px;
+
+background: #D7D7D7;
+border-radius: 70px;
+
+
+/* Rezervacija */
+
+position: absolute;
+width: 379px;
+height: 136px;
+left: 759px;
+top: 491px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* We will help you find your hotel! */
+
+position: absolute;
+width: 1920px;
+height: 152px;
+left: 0px;
+top: 303px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 76px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* logout_black_24dp 1 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1636px;
+top: 27px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* menu_black_24dp (1) 3 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1779px;
+top: 27px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* menu */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1920px;
+height: 1081px;
+left: 0px;
+top: 12px;
+
+filter: blur(12px);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 932px;
+left: 1920px;
+top: 161px;
+
+background: rgba(223, 139, 189, 0.75);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Mardan palace Turcijā */
+
+position: absolute;
+width: 188px;
+height: 58px;
+left: 245px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Miracle Resort Hotel Turcijā */
+
+position: absolute;
+width: 529px;
+height: 62px;
+left: 684px;
+top: 1006px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Radisson Latvijā */
+
+position: absolute;
+width: 459px;
+height: 70px;
+left: 1327px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 4 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+right: 1316px;
+top: 663px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 1292px;
+top: 663px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 684px;
+top: 663px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* rezervcija */
+
+position: absolute;
+width: 437px;
+height: 136px;
+left: 730px;
+top: 491px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 437px;
+height: 109px;
+left: 730px;
+top: 505px;
+
+background: #D7D7D7;
+border-radius: 70px;
+
+
+/* Rezervacija */
+
+position: absolute;
+width: 379px;
+height: 136px;
+left: 759px;
+top: 491px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* We will help you find your hotel! */
+
+position: absolute;
+width: 1920px;
+height: 152px;
+left: 0px;
+top: 303px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 76px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* logout_black_24dp 1 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1636px;
+top: 27px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* menu_black_24dp (1) 1 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1756px;
+top: 27px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 1765px;
+height: 516.22px;
+left: 74px;
+top: 122px;
+
+background: #BBFFE2;
+
+
+/* Main */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 932px;
+left: 1920px;
+top: 161px;
+
+background: rgba(223, 139, 189, 0.75);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Mardan palace Turcijā */
+
+position: absolute;
+width: 188px;
+height: 58px;
+left: 245px;
+top: 1007px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+
+
+/* Radisson */
+
+position: absolute;
+width: 158px;
+height: 44px;
+left: 1477px;
+top: 1015px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Logi */
+
+position: absolute;
+width: 389px;
+height: 95px;
+left: 1531px;
+top: 26px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 165.99px;
+height: 95px;
+left: 1738.01px;
+top: 26px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 165.99px;
+height: 95px;
+left: 1543px;
+top: 26px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* Login In */
+
+position: absolute;
+width: 191px;
+height: 80px;
+left: 1729px;
+top: 32px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Sign up */
+
+position: absolute;
+width: 191px;
+height: 80px;
+left: 1531px;
+top: 32px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+right: 1316px;
+top: 663px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+right: 1308px;
+top: 665px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 684px;
+top: 663px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 529px;
+height: 334px;
+left: 1292px;
+top: 663px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Radisson */
+
+position: absolute;
+width: 158px;
+height: 44px;
+left: 1477px;
+top: 1015px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+
+
+/* rezervcija */
+
+position: absolute;
+width: 437px;
+height: 136px;
+left: 742px;
+top: 491px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 437px;
+height: 109px;
+left: 742px;
+top: 505px;
+
+background: #C4C4C4;
+border-radius: 70px;
+
+
+/* Rezervacija */
+
+position: absolute;
+width: 379px;
+height: 136px;
+left: 771px;
+top: 491px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* rezervcija */
+
+position: absolute;
+width: 449px;
+height: 136px;
+left: 730px;
+top: 491px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 449px;
+height: 109px;
+left: 730px;
+top: 505px;
+
+background: #D7D7D7;
+border-radius: 70px;
+
+
+/* Rezervacija */
+
+position: absolute;
+width: 389.41px;
+height: 136px;
+left: 759.8px;
+top: 491px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* We will help you find your hotel! */
+
+position: absolute;
+width: 1920px;
+height: 152px;
+left: 0px;
+top: 303px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 76px;
+line-height: 92px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Miracle Resort Hotel Turcijā */
+
+position: absolute;
+width: 529px;
+height: 62px;
+left: 684px;
+top: 1006px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+
+
+/* Список 1 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 932px;
+left: 1920px;
+top: 148px;
+
+background: rgba(223, 139, 189, 0.75);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Hotel Cphliving */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 1450px;
+top: 725px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* From 227 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 574px;
+top: 537px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 168 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 575px;
+top: 278px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 98 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 1485px;
+top: 278px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 127 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 1485px;
+top: 531px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 118 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 1490px;
+top: 796px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 70 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 574px;
+top: 796px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 214px;
+top: 743px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 5 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 1114px;
+top: 742px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 8 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 1116px;
+top: 475px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 7 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 1116px;
+top: 207px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 333px;
+height: 210.42px;
+left: 214px;
+top: 475px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+right: 1373px;
+top: 207px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* menu_black_24dp (1) 2 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1775px;
+top: 33px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* logout_black_24dp 3 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1658px;
+top: 33px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Miracle Resort Hotel */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 564px;
+top: 460px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Elite Marina Tower */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 1466px;
+top: 460px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* InterContinental */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 1455px;
+top: 207px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Mardan palace */
+
+position: absolute;
+width: 205px;
+height: 71px;
+left: 552px;
+top: 207px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Radisson */
+
+position: absolute;
+width: 112px;
+height: 75px;
+left: 575px;
+top: 743px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle_black_24dp 1 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 998px;
+top: 994px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.89%;
+right: 7.78%;
+top: 6.67%;
+bottom: 10%;
+
+background: #000000;
+
+
+/* radio_button_unchecked_black_24dp 1 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 876px;
+top: 994px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* circle_black_24dp 2 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 937px;
+top: 994px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* Список 2 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 932px;
+left: 1920px;
+top: 148px;
+
+background: rgba(223, 139, 189, 0.75);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Hotel Cphliving */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 1450px;
+top: 722px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* From 227 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 574px;
+top: 534px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 168 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 575px;
+top: 275px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 98 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 1485px;
+top: 275px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 127 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 1485px;
+top: 528px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 118 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 1490px;
+top: 793px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 70 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 574px;
+top: 793px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 214px;
+top: 740px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 5 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 1116px;
+top: 740px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 8 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 1116px;
+top: 472px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 7 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+left: 1116px;
+top: 204px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 333px;
+height: 210.42px;
+left: 214px;
+top: 472px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+right: 1373px;
+top: 204px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* menu_black_24dp (1) 2 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1775px;
+top: 33px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* logout_black_24dp 3 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1658px;
+top: 33px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Miracle Resort Hotel */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 564px;
+top: 457px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Elite Marina Tower */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 1466px;
+top: 457px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* InterContinental */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 1455px;
+top: 204px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Mardan palace */
+
+position: absolute;
+width: 205px;
+height: 71px;
+left: 552px;
+top: 204px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Radisson */
+
+position: absolute;
+width: 112px;
+height: 75px;
+left: 575px;
+top: 740px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle_black_24dp 3 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 989px;
+top: 995px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.89%;
+right: 7.78%;
+top: 6.67%;
+bottom: 10%;
+
+background: #000000;
+
+
+/* circle_black_24dp 4 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 886px;
+top: 995px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.89%;
+right: 7.78%;
+top: 6.67%;
+bottom: 10%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.01%;
+right: 49.04%;
+top: 92.41%;
+bottom: 4.12%;
+
+background: #000000;
+
+
+/* radio_button_unchecked_black_24dp 2 */
+
+position: relative;
+width: 45px;
+height: 45px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Список 3 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: rgba(13, 132, 170, 0.19);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 932px;
+left: 1920px;
+top: 148px;
+
+background: rgba(223, 139, 189, 0.75);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* From 227 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 574px;
+top: 534px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* From 168 euro */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 575px;
+top: 275px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* image 2 */
+
+position: absolute;
+width: 333px;
+height: 210.42px;
+left: 214px;
+top: 472px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 333px;
+height: 210px;
+right: 1373px;
+top: 204px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+
+/* menu_black_24dp (1) 2 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1775px;
+top: 33px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* logout_black_24dp 3 */
+
+position: absolute;
+width: 83px;
+height: 83px;
+left: 1658px;
+top: 33px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* Nosaukums */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+background: rgba(255, 251, 251, 0.55);
+border-radius: 40px;
+
+
+/* ESViesnīca starptauisku saite */
+
+position: absolute;
+width: 641px;
+height: 123px;
+left: 19px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 42px;
+line-height: 51px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Miracle Resort Hotel */
+
+position: absolute;
+width: 239px;
+height: 71px;
+left: 564px;
+top: 457px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Mardan palace */
+
+position: absolute;
+width: 205px;
+height: 71px;
+left: 552px;
+top: 204px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* radio_button_unchecked_black_24dp 1 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 999px;
+top: 993px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* circle_black_24dp 2 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 937px;
+top: 993px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* circle_black_24dp 1 */
+
+position: absolute;
+left: 45.57%;
+right: 52.08%;
+top: 91.94%;
+bottom: 3.89%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+{
