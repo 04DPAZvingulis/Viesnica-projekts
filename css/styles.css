@@ -11,3 +11,17 @@ body{
 *:after {
     box-sizing: border-box;
 }
+
+.container {
+    width: 100%;
+    max-width: 1900px;
+    margin: 0 auto;
+}
+
+.intro {
+    width:100%;
+    height: 100vh;
+
+    background: ;
+
+}
