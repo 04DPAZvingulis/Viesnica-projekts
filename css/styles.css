@@ -1,6 +1,13 @@
 body{
+    margin: 0;
     font-family: 'Inter', sans-serif;
 
     font-size: 15px;
     color: black;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
 }
